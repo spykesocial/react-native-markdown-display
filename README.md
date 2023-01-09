@@ -1161,4 +1161,4 @@ export default App;
 
 ### Other Notes
 
-This is a fork of [react-native-markdown-renderer](https://github.com/mientjan/react-native-markdown-renderer), a library that unfortunately has not been updated for some time so i took all of the outstanding pull requests from that library and tested + merged as necessary.
+This is a fork of [react-native-markdown-renderer](https://github.com/iamacup/react-native-markdown-display), a library that unfortunately has not been updated for some time so i took all of the outstanding pull requests from that library and tested + merged as necessary.
